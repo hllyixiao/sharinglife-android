@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libBaseFrame/libBaseFrame.iml" filepath="$PROJECT_DIR$/libBaseFrame/libBaseFrame.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharinglife.iml" filepath="$PROJECT_DIR$/sharinglife.iml" />
     </modules>
   </component>
